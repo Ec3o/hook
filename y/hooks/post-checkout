@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "amal_was_here" > /tmp/pwnd
+echo "Hacked_By_Vidar-Team" > /tmp/pwnd
 calc.exe
-open -a Calculator.app
+open -a Termius.app
